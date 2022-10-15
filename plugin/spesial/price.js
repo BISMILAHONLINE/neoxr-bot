@@ -5,7 +5,7 @@ exports.run = {
       client,
       isPrefix
    }) => {
-      client.reply(m.chat, `Upgrade to premium plan at a price of Rp. 5,000 for 1.000 Limit, send *${isPrefix}owner* if want to buy.`, m)
+      client.reply(m.chat, `Bot Sedang Mode Group Kak Kalo Kaka Mau Test Bot Bisa Masuk Ke Grup, send *${isPrefix}owner* Sewa Chat Owner.`, m)
    },
    error: false,
    cache: true,
