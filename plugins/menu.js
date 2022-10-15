@@ -52,7 +52,7 @@ exports.run = {
                   description: ``
                })
             }
-            await client.sendList(m.chat, '', global.db.setting.msg, `© neoxr-bot v${global.version}`, 'Tap!', [{
+            await client.sendList(m.chat, '', global.db.setting.msg, `© Siesta - Multi Divice v${global.version}`, 'Tap!', [{
                rows
             }], m)
          }
